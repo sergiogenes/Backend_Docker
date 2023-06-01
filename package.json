@@ -1,0 +1,22 @@
+{
+  "name": "backend-docker",
+  "version": "1.0.0",
+  "description": "Se realizará un backend sencillo para luego dockerizarlo y correrlo desde un contenedor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiogenes/Backend_Docker.git"
+  },
+  "author": "Sergio Leopoldo Genes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergiogenes/Backend_Docker/issues"
+  },
+  "homepage": "https://github.com/sergiogenes/Backend_Docker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
